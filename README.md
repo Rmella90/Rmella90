@@ -2,7 +2,7 @@
 - 🌱 I’m interested in find a job in data analytic.
 - 🌱 I’m currently learning Data analysis, programing and data sciencie.
   
-- In these place i want to show my method, skill and share with you about one of my passion, data analysis .
+- if you have a advice o commentabout my repositories you have my attetion.  
 
 - Thank you for visiting me!
 
